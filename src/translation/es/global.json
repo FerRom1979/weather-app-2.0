@@ -1,0 +1,20 @@
+{
+    "search": {
+        "search-placeholder": "Buscar ciudad"
+    },
+    "button-lang": {
+        "english": "ingles",
+        "spanish": "español"
+    },
+    "weather-card": {
+        "title": "El Clima en",
+        "wind": "Viento",
+        "maximum": "Maxima",
+        "minimum": "Minima"
+    },
+    "extended-forecast": {
+        "temp-max": "Temperatura Maxima",
+        "temp-min": "Temperatura Minima",
+        "humidity": "Humedad"
+    }
+}
