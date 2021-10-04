@@ -1,0 +1,20 @@
+{
+    "search": {
+        "search-placeholder": "search the city"
+    },
+    "button-lang": {
+        "english": "english",
+        "spanish": "spanish"
+    },
+    "weather-card": {
+        "title": "The weather in",
+        "wind": "Wind",
+        "maximum": "Maximum",
+        "minimum": "Minimum"
+    },
+    "extended-forecast": {
+        "temp-max": "Temperature Maximum",
+        "temp-min": "Temperature Minimum",
+        "humidity": "Humidity"
+    }
+}
